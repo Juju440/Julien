@@ -1,13 +1,24 @@
-<a href="https://zupimages.net/viewer.php?id=20/27/td2n.jpg"><img src="https://zupimages.net/up/20/27/td2n.jpg" alt="" /></a>
+<a href="https://zupimages.net/viewer.php?id=20/27/td2n.jpg"><img src="https://zupimages.net/up/20/27/td2n.jpg" alt="width="200" height="200"" /></a>
 # VICTORINE Julien
-* 22 ans
-* 155 Rue des Saphirs, Cambuston 97440 Saint-André
-* Française 
+* Age : 22 ans
+* Adresse : 155 Rue des Saphirs, Cambuston 97440 Saint-André
+* Nationalité : Française 
 * Section Panthère 2
 
 -------------------------------------------------------------------------------------------------------------------------------
 
 <a href="https://zupimages.net/viewer.php?id=20/27/gnol.png"><img src="https://zupimages.net/up/20/27/gnol.png" alt="" /></a>
+# VICTORINE Julien
+* Développeur Web et Web Mobile
 
+# Les 3 grandes compétences du Référentiel de certification
+* 1. Réaliser une interface utilisateur web statique et adaptable
+* 2. Développer les composants d’accès aux données 
+* 3. Développer la partie back-end d’une application web ou web mobile
 
+# Durée de la formation
+* 12 mois
+
+# Nombre d'apprenants dans la formation
+* 11 apprenants au sein de a formation
 
