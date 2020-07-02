@@ -20,5 +20,5 @@
 * 12 mois
 
 # Nombre d'apprenants dans la formation
-* 11 apprenants au sein de a formation
+* 11 apprenants au sein de la formation
 
