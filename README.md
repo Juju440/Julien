@@ -12,9 +12,9 @@
 * Développeur Web et Web Mobile
 
 # Les 3 grandes compétences du Référentiel de certification
-* 1. Réaliser une interface utilisateur web statique et adaptable
-* 2. Développer les composants d’accès aux données 
-* 3. Développer la partie back-end d’une application web ou web mobile
+* Réaliser une interface utilisateur web statique et adaptable
+* Développer les composants d’accès aux données 
+* Développer la partie back-end d’une application web ou web mobile
 
 # Durée de la formation
 * 12 mois
