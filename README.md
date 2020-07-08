@@ -3,7 +3,7 @@
 * Age : 22 ans
 * Adresse : 155 Rue des Saphirs, Cambuston 97440 Saint-André
 * Nationalité : Française 
-* Section Panthère 2 (4ème Compagnie)
+* Section D-WEB
 
 -------------------------------------------------------------------------------------------------------------------------------
 
